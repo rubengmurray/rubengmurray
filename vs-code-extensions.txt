@@ -1,0 +1,30 @@
+code --install-extension amazonwebservices.aws-toolkit-vscode
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension Bruce.rona
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension fabiospampinato.vscode-github-notifications-bell
+code --install-extension gerrymi.knex-preview
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension googlecloudtools.cloudcode
+code --install-extension mikestead.dotenv
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension myxvisual.vscode-ts-uml
+code --install-extension redhat.vscode-commons
+code --install-extension redhat.vscode-xml
+code --install-extension redhat.vscode-yaml
+code --install-extension reduckted.vscode-gitweblinks
+code --install-extension rido3.wordcount
+code --install-extension Shan.code-settings-sync
+code --install-extension shardulm94.trailing-spaces
+code --install-extension shd101wyy.markdown-preview-enhanced
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension TzachOvadia.todo-list
+code --install-extension waderyan.gitblame
+code --install-extension WakaTime.vscode-wakatime
+code --install-extension wix.vscode-import-cost
+
+// https://stackoverflow.com/questions/35773299/how-can-you-export-the-visual-studio-code-extension-list

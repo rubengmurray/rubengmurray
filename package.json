@@ -1,0 +1,22 @@
+{
+  "name": "rubengmurray",
+  "version": "0.0.1",
+  "description": "rubengmurray things",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require source-map-support/register --require ts-node/register --full-trace tests/**/*.ts --exit",
+    "start": "node build",
+    "build": "rm -rf build && tsc",
+    "start:dev": "rm -rf build && tsc && node build"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "16.13.0"
+  },
+  "author": "Reece Daniels <rubengmurray@gmail.com>",
+  "license": "No License",
+  "devDependencies": {
+    "typescript": "4.5.5"
+  },
+  "type": "module"
+}

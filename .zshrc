@@ -34,7 +34,7 @@ alias gcam="git commit -am"
 alias gpl="git pull origin"
 alias gps="git push origin head"
 alias gbd="git branch -D"
-alias gbdr="git push -d origin"
+# alias gbdr="git push -d origin"
 
 # DOCKER
 alias dr="docker run"
@@ -44,11 +44,11 @@ alias dcupb="docker-compose up --build"
 
 # KUBE
 alias kgp="kubectl get pods -n"
-alias kl="kubectl logs -f -n"
+alias kgl="kubectl logs -f -n"
 alias kcu="kubectl config use-context"
 alias kgc="kubectl get configmap -n"
 alias kgd="kubectl get deployment -n"
-alias kgsn="kubectl get secret -n"
+alias kgs="kubectl get secret -n"
 alias kdp="kubectl describe pod -n"
 
 export NVM_DIR="$HOME/.nvm"

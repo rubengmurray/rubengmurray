@@ -1,0 +1,64 @@
+{
+  "Print to console": {
+    "prefix": "log",
+    "body": [
+      "console.log('$1');",
+      "$2"
+    ],
+    "description": "Log output to console"
+  },
+  "Joi Number Validation": {
+    "prefix": "joinumber",
+    "body": [
+      "joi.number(),",
+      "$2"
+    ]
+  },
+  "Joi String Validation": {
+    "prefix": "joistring",
+    "body": [
+      "joi.string(),",
+      "$2"
+    ]
+  },
+  "Joi Object Validation": {
+    "prefix": "joiobject",
+    "body": [
+      "joi.object(),",
+      "$2"
+    ]
+  },
+  "Joi Array Validation": {
+    "prefix": "joiarray",
+    "body": [
+      "joi.array().items(),",
+      "$2"
+    ]
+  },
+  "It Block": {
+    "prefix": "it",
+    "body": [
+      "it('should run a test', async () => {$0});"
+    ]
+  },
+  "Describe Block": {
+    "prefix": "describe",
+    "body": [
+      "describe('should describe a set of tests', async () => {$0});"
+    ]
+  },
+  "Interface": {
+    "prefix": "interface",
+    "body": [
+      "interface Int {\n  [key: string]: unknown\n}",
+      "$2"
+    ]
+  },
+  "Enum": {
+    "prefix": "enum",
+    "body": [
+      "enum Enum {\n  KEY = 'KEY'\n}",
+      "$2"
+    ]
+  }
+}

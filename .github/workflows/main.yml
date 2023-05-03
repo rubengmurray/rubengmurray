@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 4 2,8,15,22,29 * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -19,8 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           output_action: none
-          delay: 120
-          user: lowlighter
+          user: rubengmurray
           plugins_errors_fatal: yes
       - name: 🧱 Core - JSON metrics
         uses: lowlighter/metrics@master
@@ -29,8 +28,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_output: json
           output_action: none
-          delay: 120
-          user: lowlighter
+          user: rubengmurray
           plugins_errors_fatal: yes
       - name: 📅 Isometric commit calendar - Full-year calendar
         uses: lowlighter/metrics@master
@@ -41,8 +39,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           output_action: none
-          delay: 120
-          user: lowlighter
+          user: rubengmurray
           plugins_errors_fatal: yes
       - name: 🈷️ Languages activity - Most used
         uses: lowlighter/metrics@master
@@ -56,6 +53,5 @@ jobs:
             gnuplot
           plugin_languages_limit: 4
           output_action: none
-          delay: 120
-          user: lowlighter
+          user: rubengmurray
           plugins_errors_fatal: yes

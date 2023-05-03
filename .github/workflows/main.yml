@@ -22,9 +22,7 @@ jobs:
           delay: 120
           user: lowlighter
           plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
       - name: 🧱 Core - JSON metrics
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: metrics.example.json
@@ -34,7 +32,6 @@ jobs:
           delay: 120
           user: lowlighter
           plugins_errors_fatal: yes
-          if: ${{ success() || failure() }}
       - name: 📅 Isometric commit calendar - Full-year calendar
         uses: lowlighter/metrics@master
         with:
@@ -47,7 +44,6 @@ jobs:
           delay: 120
           user: lowlighter
           plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
       - name: 🈷️ Languages activity - Most used
         uses: lowlighter/metrics@master
         with:
@@ -63,4 +59,3 @@ jobs:
           delay: 120
           user: lowlighter
           plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}

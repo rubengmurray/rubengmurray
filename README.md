@@ -18,6 +18,7 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
   <li><a href="https://rubengmurray.github.io/mortgage-calculator" target="_blank">Mortgage Calculator</a>: Calculate impact of over-payments on your mortgage</li>
   <li><a href="https://leaderboard.tfehq.net" target="_blank">Task Force Elite Leaderboard</a>: Leaderboard for the online FPS Task Force Elite</li>
   <li><a href="https://technosnake.s3.eu-west-2.amazonaws.com/index.html" target="_blank">Techno Snake</a>: Techno remix of the classic snake game from the Nokia 3310 era</li>
+  <li><a href="https://github.com/RedSpearStudios/discord-bot" target="_blank">'Players Online' Discord Bot</a>: Shows players online for a steam game in your discord server</li>
 </ul>
 
 

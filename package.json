@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "engines": {
-    "node": "16.13.0"
+    "node": "18.13.0"
   },
   "author": "Reece Daniels <rubengmurray@gmail.com>",
   "license": "No License",

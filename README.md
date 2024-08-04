@@ -1,12 +1,10 @@
-<!-- ![Metrics](/metrics.classic.svg) -->
+<!-- ![Metrics](./metrics.classic.svg) -->
 
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rubengmurray)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
-<!--
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rubengmurray)](https://github.com/LordDashMe/github-contribution-stats/)
-**rubengmurray/rubengmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **rubengmurray/rubengmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,5 +13,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubengmurray&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubengmurray) -->

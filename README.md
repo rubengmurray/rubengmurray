@@ -6,6 +6,10 @@ I'm the Lead Backend Engineer at <a href="https://kwiff.com" target="_blank">kwi
 
 In my spare time I enjoy creating my own projects and contributing to the open-source community - including maintaining the npm package `chrome-cookies-secure`.
 
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/rubengmurray?style=social)](https://twitter.com/rubengmurray)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-rubengmurray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reece-daniels-007a286b/)](https://www.linkedin.com/in/reece-daniels-007a286b/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/rubengmurray?label=follow&style=social)](https://github.com/rubengmurray)
+
 ## Project List
 <ul>
   <li><a href="https://reece-daniels.vercel.app" target="_blank">Reece Daniels</a>: Personal Site</li>

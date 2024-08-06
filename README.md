@@ -42,7 +42,3 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
   <img src="https://wakatime.com/wrapped/2022/b362afd3-1e27-4d75-93cd-1940ce9cf025/0f558220649480384789f7e3dd630e0ced79d731.png" width="60%"/>
 
 </details>
-
-
-Job indicator to readmes for repositories
-<!-- [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml) -->

@@ -34,6 +34,15 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
 
 ### Wakatime 
 
-<img src="https://wakatime.com/wrapped/2023/b362afd3-1e27-4d75-93cd-1940ce9cf025/f51aae0122d14a7e9f58725d207ecc5085b7087d.png" width="75%"/>
+  <img src="https://wakatime.com/wrapped/2023/b362afd3-1e27-4d75-93cd-1940ce9cf025/f51aae0122d14a7e9f58725d207ecc5085b7087d.png" width="60%"/>
 
-<img src="https://wakatime.com/wrapped/2022/b362afd3-1e27-4d75-93cd-1940ce9cf025/0f558220649480384789f7e3dd630e0ced79d731.png" width="75%"/>
+<details>
+  <summary>See Previous Years</summary>
+
+  <img src="https://wakatime.com/wrapped/2022/b362afd3-1e27-4d75-93cd-1940ce9cf025/0f558220649480384789f7e3dd630e0ced79d731.png" width="60%"/>
+
+</details>
+
+
+Job indicator to readmes for repositories
+<!-- [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml) -->

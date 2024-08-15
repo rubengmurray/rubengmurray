@@ -33,7 +33,16 @@ alias ga.="git add ."
 alias gcam="git commit -am"
 alias gpl="git pull origin"
 alias gps="git push origin head"
+alias glm="git pull origin master"
 alias gbd="git branch -D"
+
+# Clean up local branches already merged master
+alias gbmmaster="git branch --merged master | egrep -v '(^\*|master|dev)'"
+alias gbmasterdel="git branch --merged master | egrep -v '(^\*|master|dev)' | xargs git branch -d"
+
+# Clean up local branches already merged master
+alias gbmmain="git branch --merged main | egrep -v '(^\*|main|dev)'"
+alias gbmaindel="git branch --merged main | egrep -v '(^\*|main|dev)' | xargs git branch -d"
 # alias gbdr="git push -d origin"
 
 # DOCKER
@@ -50,6 +59,11 @@ alias kgc="kubectl get configmap -n"
 alias kgd="kubectl get deployment -n"
 alias kgs="kubectl get secret -n"
 alias kdp="kubectl describe pod -n"
+# For when a service doesn't start CreateContainerConfigError
+alias kdps="kubectl describe pods -n"
+
+# OTHER
+alias calc="bc"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

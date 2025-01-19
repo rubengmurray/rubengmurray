@@ -34,7 +34,7 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
 
 ### Wakatime 
 
-<!-- 2024 not working the same way -->
+<!-- 2024 not working the same way as previous years -->
 <img src="./waka-2024.png" width="75%"/>
 
 <details>
@@ -49,4 +49,4 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
 ### Badges
 
 <a href="https://www.credly.com/badges/0627829e-a583-40fa-95da-273a1a61ca80/public_url">
-<img src="https://images.credly.com/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png" width="150" height="150"/></a>
+<img src="https://images.credly.com/images/abf73960-edd2-4115-9ab9-e42e9fd967e9/JSLandia.png" width="90" height="90"/></a>

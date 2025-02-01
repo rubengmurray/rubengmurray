@@ -15,17 +15,25 @@ source $ZSH/oh-my-zsh.sh
 # GENERAL JS
 alias nm.="nodemon ."
 
-# NPM
+# STANDARD NPM
 alias npmi="npm i"
+alias ni="npm i"
 alias npml="npm link"
+alias nl="npm link"
 alias npmrs="npm run start"
-alias npmrsd="npm run start:dev"
+alias nrs="npm run start"
 alias npmt="npm test"
-alias npmr="npm run"
+alias nt="npm test"
+
+# CUSTOM NPM
+alias nti="npm run test:integration"
+alias npmrsd="npm run start:dev"
+alias nrsd="npm run start:dev"
+alias ndt="npm run docker:teardown"
 
 # REDIS
-alias rs="redis-server"
-alias rcli="redis-cli"
+alias r-s="redis-server"
+alias r-cli="redis-cli"
 
 # GIT
 alias gplh="git pull origin head"
@@ -43,13 +51,13 @@ alias gbmasterdel="git branch --merged master | egrep -v '(^\*|master|dev)' | xa
 # Clean up local branches already merged master
 alias gbmmain="git branch --merged main | egrep -v '(^\*|main|dev)'"
 alias gbmaindel="git branch --merged main | egrep -v '(^\*|main|dev)' | xargs git branch -d"
-# alias gbdr="git push -d origin"
 
 # DOCKER
 alias dr="docker run"
 alias dps="docker ps"
 alias dcup="docker-compose up"
 alias dcupb="docker-compose up --build"
+alias dsi="docker system info"
 
 # KUBE
 alias kgp="kubectl get pods -n"
@@ -59,6 +67,8 @@ alias kgc="kubectl get configmap -n"
 alias kgd="kubectl get deployment -n"
 alias kgs="kubectl get secret -n"
 alias kdp="kubectl describe pod -n"
+alias kdelp="kubectl delete pod -n"
+
 # For when a service doesn't start CreateContainerConfigError
 alias kdps="kubectl describe pods -n"
 
@@ -90,3 +100,5 @@ load-nvmrc() {
 }
 add-zsh-hook chpwd load-nvmrc
 load-nvmrc
+
+eval "$(fnm env --use-on-cd --version-file-strategy=recursive --resolve-engines --shell zsh)"

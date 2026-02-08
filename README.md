@@ -9,7 +9,8 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
 [![wakatime](https://wakatime.com/badge/user/b362afd3-1e27-4d75-93cd-1940ce9cf025.svg)](https://wakatime.com/@rubengmurray) -
 [![Linkedin: Reece Daniels](https://img.shields.io/badge/-rubengmurray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reece-daniels-007a286b/)](https://www.linkedin.com/in/reece-daniels-007a286b/) -
 [![GitHub Thaiane](https://img.shields.io/github/followers/rubengmurray?label=follow&style=social)](https://github.com/rubengmurray)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengmurray@gmail.com)
+
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengmurray@gmail.com) -->
 
 
 ## Project List

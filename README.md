@@ -6,9 +6,11 @@ I'm Head of Backend Engineering at <a href="https://kwiff.com?ref=github.com/rub
 
 In my spare time I enjoy creating my own projects and contributing to the open-source community - including maintaining the npm packages <a href="https://npmjs.com/knex" target="_blank">`knex`</a> & <a href="https://npmjs.com/chrome-cookies-secure" target="_blank">`chrome-cookies-secure`</a>.
 
-[![wakatime](https://wakatime.com/badge/user/b362afd3-1e27-4d75-93cd-1940ce9cf025.svg)](https://wakatime.com/@rubengmurray) - 
+[![wakatime](https://wakatime.com/badge/user/b362afd3-1e27-4d75-93cd-1940ce9cf025.svg)](https://wakatime.com/@rubengmurray) -
 [![Linkedin: Reece Daniels](https://img.shields.io/badge/-rubengmurray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reece-daniels-007a286b/)](https://www.linkedin.com/in/reece-daniels-007a286b/) -
 [![GitHub Thaiane](https://img.shields.io/github/followers/rubengmurray?label=follow&style=social)](https://github.com/rubengmurray)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubengmurray@gmail.com)
 
 
 ## Project List
@@ -34,14 +36,14 @@ In my spare time I enjoy creating my own projects and contributing to the open-s
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rubengmurray&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Wakatime 
+### Wakatime
 
-<!-- 2024 not working the same way as previous years -->
-<img src="./waka-2024.jpg" width="75%"/>
+<img src="./waka-2025.png" width="75%"/>
 
 <details>
   <summary>Previous Years</summary>
-
+  <!-- 2024 not working the same way as previous years -->
+  <img src="./waka-2024.jpg" width="75%"/>
   <img src="https://wakatime.com/wrapped/2023/b362afd3-1e27-4d75-93cd-1940ce9cf025/f51aae0122d14a7e9f58725d207ecc5085b7087d.png" width="75%"/>
   <img src="https://wakatime.com/wrapped/2022/b362afd3-1e27-4d75-93cd-1940ce9cf025/0f558220649480384789f7e3dd630e0ced79d731.png" width="75%"/>
 </details>
